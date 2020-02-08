@@ -1,11 +1,10 @@
 # CS499_Deep_Learning_Project-1
 
+## Project Description
+In this project our goal is to implement the gradient descent algorithm for learning a logistic regression model, and then use it with early stopping regularization to make predictions on several real data sets.
 
-
-
-## Gradient Descent Algorithm
+### Gradient Descent Algorithm
 See our implementation of Gradient Descent Algorithm using R language [here](GradientDescent.R)
-
 
 ## About
 This is our first group project of CS499 Deep Learning course in Spring 2020 at [NAU](https://nau.edu/)
