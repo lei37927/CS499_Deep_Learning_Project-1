@@ -27,8 +27,12 @@ Use any tools you like to unzip the project into the folder you want.
 
 ### 3 Run the project
 #### 3.1 Set the path
-**This is an important step, ignoring this may cause some problems with reading data.**
-
+***This is an important step, ignoring this may cause some problems with reading data.***
+Open RStudio, in the 'console' command line at the left bottom corner, type
+```
+setwd('PATH')
+```
+where PATH is where you unzip all the R and data files.
 
 
 ## About
