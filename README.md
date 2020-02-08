@@ -26,6 +26,9 @@ You can use ```git clone``` to download the project or just click the green butt
 Use any tools you like to unzip the project into the folder you want.
 
 ### 3 Run the project
+#### 3.1 Set the path
+***This is an important step, ignoring this may cause some problems with reading data.***
+
 
 
 ## About
