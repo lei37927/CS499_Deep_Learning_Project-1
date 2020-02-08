@@ -51,7 +51,9 @@ First go to Scale.R, then click the 'run' button in the file section (not the wh
 
 Then go to GradientDescent.R, then click 'run' again until there's nothing running in the console section.
 
-Then go to Experiments_spam.R, then click 'run' until we see the package 'ggplot2' is imported (sorry for the inconvenience), then click twice, and wait for seconds, a graph will show in the bottom right section, showing the relationship between error rate and # of iterations. Click twice more, a graph will show the relationship between logistic loss and # of iterations.
+Then go to Experiments_spam.R, then click 'run' until we see the package 'ggplot2' is imported (sorry for the inconvenience), then click twice, and wait for seconds, a graph will show in the bottom right section, showing the relationship between error rate and # of iterations. Click twice more, a graph will show the relationship between logistic loss and # of iterations. Then click to the end, a graph will show ROC curve.
+
+For extra credits, just go to Extra_Credits.R and run from the first line again to the end. At last you will see a graph with one baseline and three differnet models trained from three different data sets.
 
 
 ## About
