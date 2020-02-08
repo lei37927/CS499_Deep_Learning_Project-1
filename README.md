@@ -1,5 +1,5 @@
 # CS499_Deep_Learning_Project-1
-* First group project of CS499 Deep Learning course in Spring 2020 at [NAU](https://nau.edu/)
+First group project of CS499 Deep Learning course in Spring 2020 at [NAU](https://nau.edu/)
 
 ## Project Requirements
 You can find the requirements for this project [here](https://github.com/tdhock/cs499-spring2020/blob/master/projects/1.org)
