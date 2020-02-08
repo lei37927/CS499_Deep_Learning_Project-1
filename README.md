@@ -9,3 +9,7 @@ You can find the requirements for this project [here](https://github.com/tdhock/
 ```
 int i;
 ```
+
+## Authors
+Zhenyu Lei - [lei37927](https://github.com/lei37927)
+Jianxuan Yao - [JianxuanA](https://github.com/JianxuanA)
