@@ -34,15 +34,24 @@ setwd('PATH')
 ```
 where PATH is where you unzip all the R and data files on your machine.
 
+WARNING: In your path, use '/' instead of '\'.
+
 #### 3.2 Open R files
 Click 'File'->'Open File' at the top left corner, the choose
 ```
 Scale.R
 GradientDescent.R
-Experiments_span.R
+Experiments_spam.R
 Extra_Credits.R
 ```
 to open them.
+
+#### 3.3 Run R files
+First go to Scale.R, then click the 'run' button in the file section (not the whole window) once, this will run the current line, which is the whole file in this case.
+
+Then go to GradientDescent.R, then click 'run' again until there's nothing running in the console section.
+
+Then go to Experiments_spam.R, then click 'run' until we see the package 'ggplot2' is imported (sorry for the inconvenience), then click twice, and wait for seconds, a graph will show in the bottom right section, showing the relationship between error rate and # of iterations. Click twice more, a graph will show the relationship between logistic loss and # of iterations.
 
 
 ## About
