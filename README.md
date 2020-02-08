@@ -13,5 +13,5 @@ See our implementation of Gradient Descent Algorithm using R language [here](Gra
 * Zhenyu Lei - [lei37927](https://github.com/lei37927)
 * Jianxuan Yao - [JianxuanA](https://github.com/JianxuanA)
 
-## Copyright
+## Copyright ©
 Any cloning or downloading before the project due date constitutes an infringement of our intellectual property rights, and after that it goes to open source.
