@@ -2,3 +2,7 @@
 First group project of CS499 Deep Learning
 
 ## Gradient Descent Algorithm
+
+```
+int i;
+```
