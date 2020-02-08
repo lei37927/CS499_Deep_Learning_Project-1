@@ -70,4 +70,4 @@ Dr. T.D.Hocking - [tdhock](https://github.com/tdhock) at [SICCS](https://nau.edu
 * Jianxuan Yao - [JianxuanA](https://github.com/JianxuanA)
 
 ### Copyright ©
-Any cloning or downloading before the project due date constitutes an infringement of our intellectual property rights, and after that it goes to open source.
+Any cloning or downloading before the project due date constitutes an infringement of our intellectual property rights, and after that it goes to open source. For any of the aforementioned infringements, Zhenyu Lei and Jianxuan Yao will report this to the NAU [Academic Integrity Hearing Board](https://in.nau.edu/academic-affairs/academic-integrity/).
