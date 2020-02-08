@@ -10,7 +10,7 @@ See our implementation of Gradient Descent Algorithm using R language [here](Gra
 
 ## About
 * This is our group project for CS499_Deep_Learning course at NAU
-*Instructor Toby D. Hocking
+* Instructor Dr. T.D.Hocking - [tdhock](https://github.com/tdhock)
 
 ### Authors
 * Zhenyu Lei - [lei37927](https://github.com/lei37927)
