@@ -6,9 +6,7 @@ You can find the requirements for this project [here](https://github.com/tdhock/
 
 ## Gradient Descent Algorithm
 
-```
-int i;
-```
+
 
 ## Authors
 * Zhenyu Lei - [lei37927](https://github.com/lei37927)
