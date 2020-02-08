@@ -6,6 +6,13 @@ In this project our goal is to implement the gradient descent algorithm for lear
 ### Gradient Descent Algorithm
 See our implementation of Gradient Descent Algorithm using R language [here](GradientDescent.R)
 
+## How to run it
+### 1.1 Environment Configuration
+#### 1.1.1 Download R
+Because our project is written in R language, so it is necessary to have R on your machine.
+
+You can download R [here](https://www.r-project.org/)
+
 ## About
 This is our first group project of CS499 Deep Learning course in Spring 2020 at [NAU](https://nau.edu/)
 
